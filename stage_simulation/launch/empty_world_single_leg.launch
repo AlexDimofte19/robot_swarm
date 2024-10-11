@@ -1,0 +1,6 @@
+<launch> 
+  <node pkg="stage_ros" type="stageros" name="stageros" args="$(find stage_simulation)/world/empty_world_single_leg.world" output="screen">
+    <param name="base_watchdog_timeout" value="0.5"/>
+    <remap from="robot_0/cmd_vel" to="/cmd_vel" />
+  </node>
+</launch>

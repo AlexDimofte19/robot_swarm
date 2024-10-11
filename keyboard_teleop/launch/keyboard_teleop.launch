@@ -1,0 +1,5 @@
+<launch> 
+ <node name="keyboard_teleop" pkg="keyboard_teleop" type="keyboard_teleop_node" output="screen" >
+    <param name="cmd_vel_topic" type="string" value="/cmd_vel" />
+  </node>
+</launch>
