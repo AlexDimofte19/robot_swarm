@@ -1,8 +1,15 @@
 # Robot Swarm Perception and Control Project
-* **Aim of the project**: created as part of the course Robotics Practical II at the University of Groningen, taught by Professor Raffaella Carloni. 
-* **Authors**: Code developed in equal contribution by Alexandru Dimofte and Jakub Lucki
+<u>**Authors**</u>: Code developed in equal contribution by Alexandru Dimofte and Jakub Lucki
 
 This readme contains a high-level overview of the project. For more detailed information, see one of the reports in the `reports` folder. Each report was created and submitted independently by Alexandru Dimofte and, respectively, by Jakub Lucki, with minor collaborations on the figures.
+
+<u>**Aim of the project**</u>: final project created as part of the course Robotics Practical II at the University of Groningen, taught by Professor Raffaella Carloni. 
+
+
+<u>**Note on open sourcing this project**</u>: As per our knowledge, the RPII course has changed drastically since the year we took it, hence we feel comfortable open sourcing our project. Please contact us otherwise.
+
+
+<u>**Note to Students**</u>: Although we open source this project, we encourage students taking a similar course to write their own solutions. We promise you it is very rewarding :) 
 
 ## Overview
 
